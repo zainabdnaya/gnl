@@ -1,7 +1,4 @@
-# gnl
-get_next_line
-
-Get Next LineReading a line on a fd 
+#get_next_line,"gnl" Get Next LineReading a line on a fd 
 
 <strong>GOAL<strong>
 
